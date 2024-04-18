@@ -75,3 +75,44 @@ body{
     color: var(--ouro);
     font-size: 50px;
 }
+
+.parametro-senha-titulo{
+    font-family: var(--fonte-titulo);
+    margin: 30px;
+   text-align: center;
+   font-size: 25px;
+   color: blue;
+}
+
+.parametro{
+    border: 2px solid var(--ouro);
+    border-radius: 50px;
+    margin: 50px;
+    padding: 10px;
+} 
+
+label {
+    font-size: 25px;
+    font-family: var(--fonte-titulo);
+    font-size: 25px;
+    color: var(--verde);
+
+}
+
+.checkbox{
+    width: 20px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.barra{
+    background-color: var(--azul-claro);
+    height: 30px;
+    width: 100%;
+
+}
+
+.fraca {
+width: ;
+
+}
