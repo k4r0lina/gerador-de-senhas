@@ -84,6 +84,10 @@ body {
     color: blue;
 }
 
+.parametro{
+    display: flex;
+}
+
 .parametro {
     border: 2px solid var(--ouro);
     border-radius: 50px;
