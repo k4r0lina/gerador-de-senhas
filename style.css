@@ -55,7 +55,7 @@ body {
 @media screen and(min-width: 768px) {}
 
 .parametro-senha_botao {
-    background-color: var(--ouro);
+    background-color: var(#FFFFFF));
     border: 2px solid var(--rosa);
     padding: 10px;
     cursor: pointer;
