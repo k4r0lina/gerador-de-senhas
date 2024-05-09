@@ -65,7 +65,7 @@ body {
     padding: 10px;
     border-top: 2px solid var(--rosa);
     border-bottom: 2px solid var(--rosa);
-    background-color: var(#FFFFFF);
+    background-color: var(--ouro);
     margin: 0;
 }
 
