@@ -89,7 +89,7 @@ body {
 }
 
 .parametro {
-    border: 2px solid var(#FFFFFF);
+    border: 2px solid var(--ouro);
     border-radius: 50px;
     margin: 50px;
     padding: 10px;
